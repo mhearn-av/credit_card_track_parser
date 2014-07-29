@@ -1,0 +1,6 @@
+C:\Users\mheaRN.AVAILITY\Projects\TrackDataParser\TrackDataParser\bin\TrackDataParser.dll.config
+C:\Users\mheaRN.AVAILITY\Projects\TrackDataParser\TrackDataParser\bin\TrackDataParser.dll
+C:\Users\mheaRN.AVAILITY\Projects\TrackDataParser\TrackDataParser\bin\TrackDataParser.pdb
+C:\Users\mheaRN.AVAILITY\Projects\TrackDataParser\TrackDataParser\obj\Debug\TrackDataParser.csprojResolveAssemblyReference.cache
+C:\Users\mheaRN.AVAILITY\Projects\TrackDataParser\TrackDataParser\obj\Debug\TrackDataParser.dll
+C:\Users\mheaRN.AVAILITY\Projects\TrackDataParser\TrackDataParser\obj\Debug\TrackDataParser.pdb
